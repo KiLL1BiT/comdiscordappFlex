@@ -31,6 +31,4 @@ public abstract class BaseTest {
     public void tearDown() {
         driver.close();
     }
-
-
 }
